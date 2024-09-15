@@ -12,6 +12,6 @@ HTML5
 CSS3
 
 Getting Started
-1. Clone the repository: git clone https://github.com/yourusername/your-repository.git
+1. Clone the repository: git clone (https://github.com/Kishore-github23/E-commerce-Website.git)
 2. Open index.html in your browser to view the site.
 Feel free to explore, contribute, or use this as a base for your own projects!
